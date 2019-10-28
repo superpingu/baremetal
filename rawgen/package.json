@@ -1,0 +1,16 @@
+{
+  "name": "rawgen",
+  "version": "1.0.0",
+  "description": "generate a raw image file from a PNG, JPG or GIF image",
+  "main": "rawgen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "superpingu",
+  "license": "ISC",
+  "dependencies": {
+    "binary-file": "^0.1.2",
+    "commander": "^2.9.0",
+    "get-pixels": "^3.2.3"
+  }
+}
